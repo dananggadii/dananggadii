@@ -59,7 +59,8 @@
 <details> 
   <summary><h2>🏷️ Certification Badges</h2></summary>
 
-  ![Professional Data Analyst](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_-_Badge_with_outline.png)
+  <img src="[https://img.shields.io/badge/AlibabaCloud-Certified-orange](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_-_Badge_with_outline.png)?logo=alibabacloud&logoColor=white" alt="Professional Data Analyst" width="150"/>
+  ![]()
   ![Basic Web Security For Pentester and Bug Bounty Hunter](https://api.certopus.com/v1/obi/generate_baked_badge/15db62fa407f496c8a28ad3ccea11818)
   ![Data Engineer Associate](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572705/Certification/Badges%202024/outline/DE_Associate_-_badge_with_outline.png)
   ![Data Analyst Associate](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png)
