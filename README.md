@@ -25,7 +25,7 @@ class Skills extends Cloud Engineer Intern {
 
 ### How to Connect Me: <strong>(Click the Badge to View My Profiles !)</strong>
 
-<img src="https://img.shields.io/badge/danangsmkn26@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="danangsmkn26@gmail.com">   <a  href="https://www.instagram.com/danang_adi26/"><img src="https://img.shields.io/badge/@danang_adi26-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/danangadi/"><img src="https://img.shields.io/badge/danangadi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+<a  href="https://www.instagram.com/danang_adi26/"><img src="https://img.shields.io/badge/@danang_adi26-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/danangadi/"><img src="https://img.shields.io/badge/danangadi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Meet new people,</b> share new stories. <b>Let's connect!</b> ✨</em>
 ---
