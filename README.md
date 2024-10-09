@@ -52,13 +52,15 @@
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white" alt="Trello" />
 <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" alt="Apache" />
+</details>
+
+</details>
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <summary><h2>🏷️ Certification Badges</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=dananggadii&theme=radical)](https://git.io/streak-stats)
+  ![Professional Data Analyst](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_-_Badge_with_outline.png)
+</details>
 
   
   
