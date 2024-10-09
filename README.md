@@ -19,5 +19,5 @@
   <h3>🔥 Streak Stats</h3>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=dananggadii&theme=radical)](https://git.io/streak-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=dananggadii&theme=radical)](https://git.io/streak-stats)
+  
   
