@@ -60,6 +60,9 @@
   <summary><h2>🏷️ Certification Badges</h2></summary>
 
   ![Professional Data Analyst](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_-_Badge_with_outline.png)
+  ![AI Fundamentals](https://res.cloudinary.com/dyd911kmh/image/upload/v1688476589/Certification/Skill%20Verification/ai_fundamentals.png)
+  ![Data Engineer Associate](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572705/Certification/Badges%202024/outline/DE_Associate_-_badge_with_outline.png)
+  ![Data Analyst Associate](https://res.cloudinary.com/dyd911kmh/image/upload/v1717572704/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png)
 </details>
 
   
