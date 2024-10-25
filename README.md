@@ -10,8 +10,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danang.nugrho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danangadi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nang.danang26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DanangAdi26) 
 
-<details>
-## 💻 Tech Stack
+<details> ## 💻 Tech Stack
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
