@@ -47,12 +47,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 
-## 📊 Github Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dananggadii&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dananggadii&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dananggadii&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dananggadii&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dananggadii&theme=github_dark&utcOffset=8)
 
   
   
