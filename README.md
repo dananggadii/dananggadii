@@ -4,7 +4,11 @@
 </p>
 
 # 💫 About Me:
-🧑‍💻 I am currently working as a Cloud Engineer Intern, with experience in various cloud platforms (AWS, GCP, Alibaba).<br>📊 As a Data Enthusiast, I enjoy diving deep into data and creating insightful dashboards using tools like Looker Studio, and Python.<br>🚀 My coding experience spans backend development with NestJS and TypeScript, along with Python for data analysis.<br>🎓 I hold multiple certifications in cloud computing, including Alibaba Cloud certifications, and data analyst.<br>🎯 My career goals include deepening my expertise in Cloud, and DevOps. 
+🧑‍💻 I am currently working as a Cloud Engineer Intern, with hands-on experience across various cloud platforms, including AWS, GCP, and Alibaba Cloud.
+🔧 As a DevOps enthusiast, I am passionate about optimizing software delivery pipelines, managing cloud infrastructure, and implementing CI/CD workflows to enhance system reliability and scalability.
+🚀 My technical expertise includes backend development with NestJS and FastAPI, along with Linux system administration and scripting with Python.
+🎓 I hold multiple certifications in cloud computing, reflecting my commitment to continuous learning and growth in the field.
+🎯 My career goals include becoming a proficient DevOps Engineer and leveraging AI-driven solutions to further enhance system efficiency and automation.
 
 
 ## 🌐 Socials:
