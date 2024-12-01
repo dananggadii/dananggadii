@@ -4,11 +4,11 @@
 </p>
 
 # 💫 About Me:
-🧑‍💻 I am currently working as a Cloud Engineer Intern, with hands-on experience across various cloud platforms, including AWS, GCP, and Alibaba Cloud. <br>
-🔧 As a DevOps enthusiast, I am passionate about optimizing software delivery pipelines, managing cloud infrastructure, and implementing CI/CD workflows to enhance system reliability and scalability.<br>
-🚀 My technical expertise includes backend development with NestJS and FastAPI, along with Linux system administration and scripting with Python.<br>
+🧑‍💻 I am currently working as a Cloud Engineer Intern, with hands-on experience across various cloud platforms.<br>
+🔧 As a DevOps enthusiast, I am passionate about optimizing software delivery pipelines, and managing cloud infrastructure.<br>
+🚀 My technical expertise includes backend development with NestJS and FastAPI, along with Linux system administration.<br>
 🎓 I hold multiple certifications in cloud computing, reflecting my commitment to continuous learning and growth in the field.<br>
-🎯 My career goals include becoming a proficient DevOps Engineer and leveraging AI-driven solutions to further enhance system efficiency and automation.<br>
+🎯 My career goals include becoming a proficient DevOps Engineer.<br>
 
 
 ## 🌐 Socials:
