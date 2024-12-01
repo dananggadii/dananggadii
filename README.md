@@ -8,7 +8,7 @@
 🔧 As a DevOps enthusiast, I am passionate about optimizing software delivery pipelines, and managing cloud infrastructure.<br>
 🚀 My technical expertise includes backend development with NestJS and FastAPI, along with Linux system administration.<br>
 🎓 I hold multiple certifications in cloud computing, reflecting my commitment to continuous learning and growth in the field.<br>
-🎯 My career goals include becoming a proficient DevOps Engineer.<br>
+🎯 My career goals include becoming a proficient Cloud DevOps Engineer.<br>
 
 
 ## 🌐 Socials:
