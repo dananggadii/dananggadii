@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,ts,nestjs,nodejs,prisma,postgres,mongodb,postman,github&perline=9)](https://skillicons.dev)
 
 ### ☁️ Deployment
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,bitbucket,grafana,prometheus,ansible,cloudflare,docker,git,githubactions,gitlab,jenkins,kubernetes,linux,nginx,terraform&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,bitbucket,grafana,prometheus,ansible,cloudflare,docker,git,githubactions,gitlab,jenkins,kubernetes,linux,nginx,terraform&perline=8)](https://skillicons.dev)
 
 
 
