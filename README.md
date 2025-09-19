@@ -19,7 +19,7 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Development
-[![My Skills](https://skillicons.dev/icons?i=js,php,py,ts,bootstrap,express,fastapi,nestjs,nodejs,prisma,netlify,postgres,mysql,mongodb,postman,babel,github,jest&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,nestjs,nodejs,prisma,postgres,mongodb,postman,github,&perline=9)](https://skillicons.dev)
 
 ### ☁️ Deployment
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,powershell,bash,bitbucket,grafana,prometheus,ansible,cloudflare,docker,debian,git,githubactions,gitlab,jenkins,kubernetes,linux,mint,nginx,terraform,ubuntu,windows&perline=11)](https://skillicons.dev)
