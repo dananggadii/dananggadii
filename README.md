@@ -18,11 +18,11 @@
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Development
-[![My Skills](https://skillicons.dev/icons?i=py,ts,nestjs,nodejs,prisma,postgres,mongodb,postman,github&perline=9)](https://skillicons.dev)
+### 👨‍💻 Cloud Computing
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,&perline=9)](https://skillicons.dev)
 
-### ☁️ Deployment
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,bitbucket,grafana,prometheus,ansible,cloudflare,docker,git,githubactions,gitlab,jenkins,kubernetes,linux,nginx,terraform&perline=8)](https://skillicons.dev)
+### ☁️ DevOps Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,git,github,githubactions,grafana,jenkins,kubernetes,nginx,prometheus,py,terraform,vscode&perline=7)](https://skillicons.dev)
 
 
 
